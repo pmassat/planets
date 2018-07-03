@@ -3,3 +3,5 @@ The two moons may be a problem for Wolfman.
 But the Mummy will enjoy the lack of humidity.
 
 Venus might be better as a base. See venus.txt.
+
+We added a different line in the other copy.
